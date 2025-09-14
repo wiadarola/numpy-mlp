@@ -1,0 +1,10 @@
+model:
+  hidden_dim_1: 512
+  hidden_dim_2: 128
+
+dataset:
+  batch_size: 4
+
+trainer:
+  n_epochs: 20
+  lr: 1e-3
